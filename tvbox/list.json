@@ -21,7 +21,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9vbmNldHY4LmdpdGh1Yi5pby90dmJveC9saXZlcy9saXN0Lmpzb24="]}]}],
 //解析配置
 "parses":[
-{"name":"本站解析","type":0,"url":"https://jx.xiaolangyun.com/?url="},
+{"name":"主站解析","type":0,"url":"https://jx.xiaolangyun.com/?url="},
 {"name":"内置解析1","type":3,"url":"Demo"},
 {"name":"内置解析2","type":2,"url":"Parallel"},
 {"name":"内置解析3","type":2,"url":"Sequence"},
