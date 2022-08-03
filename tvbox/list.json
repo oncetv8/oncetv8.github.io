@@ -80,22 +80,12 @@ parses:[
 {"name":"web1","type":0,"url":"https://www.nxflv.com/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺","sohu","letv"]}},
 {"name":"parwix1","type":0,"url":"https://jx.parwix.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}
 ],
-lives: [
-{
-group: "redirect",
-channels: [
-{
-name: "redirect",
-urls: [
-proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcWl4aXViYWlrZTE2My9tL3Jhdy9icmFuY2gvbWFpbi9tYW9saXZlLnR4dA==
-]
-}
-]
-}
-],
-spider:"https://oncetv8.github.io/tvbox/jar/custom_spider0701.jar;md5;B45C4ECEA82BFE22D3E8B86A69E04407",
-
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9vbmNldHY4LmdpdGh1Yi5pby90dmJveC9saXZlcy9saXN0Lmpzb24="]}]}],
+//爬虫配置
+"spider":"https://oncetv8.github.io/tvbox/jar/list.jar;md5;B45C4ECEA82BFE22D3E8B86A69E04407",
+//数据来源
 flags:["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
+//解码配置
 ijk:[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
@@ -129,5 +119,6 @@ ijk:[
 {"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
 {"category":4,"name":"mediacodec-hevc","value":"1"},
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
+//广告配置
 ads:[]
 }
