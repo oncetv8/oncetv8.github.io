@@ -20,7 +20,7 @@
 {"key":"Ekan_spider","name":"Ekan","type":3,"api":"csp_Ekan","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_DiDuan","name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Kmys","name":"酷猫(快~不稳)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Auete","name":"Auete","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1}
 ],
 //直播配置
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9vbmNldHY4LmdpdGh1Yi5pby90dmJveC9saXZlcy9saXN0Lmpzb24="]}]}],
