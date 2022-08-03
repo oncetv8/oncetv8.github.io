@@ -1,6 +1,7 @@
-// 根目录配置地址 --> clan://localhost/吾爱评测1.txt
+// 根目录配置地址 --> clan://localhost/吾爱评测2.txt
 
 //微信公众号【吾爱有三日月与卿】整理分享，关注公众号回复【接口】或【TV】获取更多
+
 
 //请自行下载外链文件备份，外链下载命名为txt后缀
 
@@ -18,26 +19,20 @@
 //https://mp.weixin.qq.com/s/pGB1JJ0u_n4PF50lu8RtRg
 
 
-
 {
 
 
-//0724
-"spider":"clan://TVBox/jar/公众号吾爱有三日月与卿0724.jar",
-
-
-
+//0723
+"spider":"clan://TVBox/jar/公众号吾爱有三日月与卿0723.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvNzYzL2xpdmUudHh0P3NpZ249ODdCVEdUMV82QU9yeTdGUHd5X3V1eEZUdjJXY2I5YURNajQ2ckRkUlREOCUzRCUzQTA="]}]}],
 
 "sites":[
 
-{"key": "Kunyu77","name": "👒公众号：吾爱有三日月与卿七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "Kuaikan","name": "👀🌈公众号：吾爱有三日月与卿快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"293视频","name":"🌈吾爱293","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 
-{"key":"csp_QQ","name":"🐧吾爱鹅鹅(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_MGTV","name":"🍋吾爱太忙(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "Kunyu77","name": "👒吾爱七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"UK","name":"🏀吾爱酷酷","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"],"plugin":"http://52bsj.vip:81/api/v3/file/get/13860/UKPPSH.jar?sign=u1dEJQNbXmIEHcXyA_8eqAG2npmo2XUSIFHU1xr4HHY%3D%3A0"},
 {"key":"PP","name":"📺吾爱PP","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"],"plugin":"http://52bsj.vip:81/api/v3/file/get/13860/UKPPSH.jar?sign=u1dEJQNbXmIEHcXyA_8eqAG2npmo2XUSIFHU1xr4HHY%3D%3A0"},
@@ -45,76 +40,69 @@
 
 {"key":"csp_hbys","name":"🐞吾爱简影","api":"csp_JianYing","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY","jar":"http://52bsj.vip:81/api/v3/file/get/815/0724.jar?sign=gi7Hl4-16Apupyw3OD7i4vqUCapcenQIYLC2CuyHWUw%3D%3A0"},
 
-{"key": "Kuaikan","name": "👀吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
+
+
+{"key": "演唱会","name": "🌈吾爱演唱会(QQ频道“吾爱有三日月与卿”反馈）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/534/%E6%BC%94%E5%94%B1%E4%BC%9A-%E5%93%94%E5%93%A90723.json?sign=DDKIY_ztUCVB6BpF3yqKBbzoE6z7HLEIopBIM2f5y0M%3D%3A0"},
+
+{"key": "MV","name": "🌈吾爱MV(频道反馈）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/784/MTV-%E5%93%94%E5%93%A90723.json?sign=MssMqfKTRURsrikq-zkJpo5eDMCplQp6nH7JbFESra8%3D%3A0"},
+
+{"key": "学堂","name": "🍉吾爱学堂（频道反馈）","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/1572/%E5%90%BE%E7%88%B1%E5%AD%A6%E5%A0%820728.json?sign=sAoPoteKCSFCQTMrS2KMn4EbDHf31-tLb6MPu32MO9o%3D%3A0"},
+
+{"key": "EXCEL","name": "🌈吾爱Excel(频道反馈）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/804/Excel%E6%95%99%E7%A8%8B.json?sign=3a_WkAa1xg59fzB5H2lsanfqcZuUjDsXGGMQZV7nTtw%3D%3A0"},
+
+{"key": "足球","name": "⚽️吾爱足球(频道反馈）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/780/%E7%90%83%E6%98%9F-%E5%93%94%E5%93%A90721.json?sign=VMaEC4RO2aBcskY1fgOuhEtfG88uQpiwN1DyjYZGPiE%3D%3A0"},
+
+{"key": "Bili","name": "🅱️吾爱哔哩(频道反馈）","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 1,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/765/%E5%93%94%E5%93%A90723.json?sign=EPgtYYzwyHhOatiqgldi8BLu4sO8V85-FlmJl99KfcM%3D%3A0"},
+
+{"key": "戏曲","name": "📺吾爱戏曲(频道反馈）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/519/%E6%88%8F%E6%9B%B20723.json?sign=ngeZFFyT8EO0PacgodQnJmLlFv1K9VIKt6e9jP1TLpo%3D%3A0"},
 
 
 
-{"key":"csp_BBB","name":"🅱️哔哩套餐","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":1},
-{"key": "戏曲","name": "🦊戏曲套餐","type": 3,"api": "csp_Blixq","searchable": 0,"quickSearch": 0,"filterable": 1},
 
-{"key": "演唱会","name": "🎾演唱会","type": 3,"api": "csp_Bliyc","searchable": 0,"quickSearch": 0,"filterable": 1},
-{"key": "csp_Blixs","name":"💿相声小品","type": 3,"api": "csp_Blixs","searchable": 0,"quickSearch": 1,"filterable": 1},
-{  "key": "csp_Bliqx",  "name": "🏀吾爱球星",   "type": 3,    "api": "csp_Bliqx",    "searchable": 1,     "quickSearch": 1,     "filterable": 1  },
 
 {"key": "奇奇","name":"🥝吾爱奇奇(仅支持Pluto)","type": 3,"api": "csp_IQIYI","searchable": 1,"quickSearch": 1,"filterable": 1,"spider": "http://52bsj.vip:81/api/v3/file/get/1722/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.json?sign=E_rOfzAuaaUIYwx7Xl4evbcv3Vg1cJdzBsetaxzS2O8%3D%3A0"},
+
+{"key":"酷猫","name":"🐞吾爱酷猫(仅支持Pluto)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"spider": "http://52bsj.vip:81/api/v3/file/get/815/0724.jar?sign=gi7Hl4-16Apupyw3OD7i4vqUCapcenQIYLC2CuyHWUw%3D%3A0"},
+
+{"key":"293视频","name":"💋吾爱293(仅支持Pluto)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"spider": "http://52bsj.vip:81/api/v3/file/get/1722/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.json?sign=E_rOfzAuaaUIYwx7Xl4evbcv3Vg1cJdzBsetaxzS2O8%3D%3A0"},
+
+
+{"key":"csp_QQ","name":"🐧吾爱鹅鹅(仅支持Pluto)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"spider": "http://52bsj.vip:81/api/v3/file/get/1722/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.json?sign=E_rOfzAuaaUIYwx7Xl4evbcv3Vg1cJdzBsetaxzS2O8%3D%3A0"},
+
+{"key":"csp_MGTV","name":"🍋吾爱太忙(仅支持Pluto)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"spider": "http://52bsj.vip:81/api/v3/file/get/1722/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.json?sign=E_rOfzAuaaUIYwx7Xl4evbcv3Vg1cJdzBsetaxzS2O8%3D%3A0"},
+
+{"key":"csp_追剧喵","name":"🐞追剧喵（仅支持Pluto）","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1,"spider":"http://52bsj.vip:81/api/v3/file/get/1722/%E5%90%BE%E7%88%B1%E8%AF%84%E6%B5%8B.json?sign=E_rOfzAuaaUIYwx7Xl4evbcv3Vg1cJdzBsetaxzS2O8%3D%3A0"},
 
 
 {"key":"csp_SP360","name":"🍉吾爱360(仅支持Pluto)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"spider":"http://52bsj.vip:81/api/v3/file/get/2968/0730.jar?sign=c9qtssPYg6hlNwZm7DwKG_wbuNyQ1teqvEjdNn8hZRY%3D%3A0"},
 
 
-{"key": "演唱会自定义","name": "🌈吾爱演唱会(仅支持Pluto）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/534/%E6%BC%94%E5%94%B1%E4%BC%9A-%E5%93%94%E5%93%A90723.json?sign=DDKIY_ztUCVB6BpF3yqKBbzoE6z7HLEIopBIM2f5y0M%3D%3A0","spider":"http://52bsj.vip:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"},
+//经常抽风
 
-{"key": "MV","name": "🌈吾爱MV(仅支持Pluto）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/784/MTV-%E5%93%94%E5%93%A90723.json?sign=MssMqfKTRURsrikq-zkJpo5eDMCplQp6nH7JbFESra8%3D%3A0","spider":"http://52bsj.vip:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"},
+{"key":"9E03","name":"🌏吾爱9E03（抽风中）","type": 3, "api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"    },
 
-{"key": "学堂","name": "🍉吾爱学堂（仅支持Pluto）","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/1572/%E5%90%BE%E7%88%B1%E5%AD%A6%E5%A0%820728.json?sign=sAoPoteKCSFCQTMrS2KMn4EbDHf31-tLb6MPu32MO9o%3D%3A0","spider":"http://52bsj.vip:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"},
-
-{"key": "EXCEL","name": "🌈吾爱Excel(仅支持Pluto）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/804/Excel%E6%95%99%E7%A8%8B.json?sign=3a_WkAa1xg59fzB5H2lsanfqcZuUjDsXGGMQZV7nTtw%3D%3A0","spider":"http://52bsj.vip:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"},
-
-{"key": "足球","name": "⚽️吾爱足球（仅支持Pluto）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/780/%E7%90%83%E6%98%9F-%E5%93%94%E5%93%A90721.json?sign=VMaEC4RO2aBcskY1fgOuhEtfG88uQpiwN1DyjYZGPiE%3D%3A0","spider":"http://52bsj.vip:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"},
-
-{"key": "Bili","name": "🅱️吾爱哔哩(仅支持Pluto）","type": 3,"api": "csp_Bili","searchable":1,"quickSearch": 1,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/765/%E5%93%94%E5%93%A90723.json?sign=EPgtYYzwyHhOatiqgldi8BLu4sO8V85-FlmJl99KfcM%3D%3A0","spider":"http://52bsj.vip:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"},
-
-{"key": "戏曲自定义","name": "📺吾爱戏曲(仅支持Pluto）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/519/%E6%88%8F%E6%9B%B20723.json?sign=ngeZFFyT8EO0PacgodQnJmLlFv1K9VIKt6e9jP1TLpo%3D%3A0","spider":"http://52bsj.vip:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"},
-
+{"key": "AliPS","name": "🐱吾爱盘搜(只支持搜索)","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "ad3c78559a494bde814f1a6c8c40db51"},
+{"key": "Gitcafe","name": "📜吾爱小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "ad3c78559a494bde814f1a6c8c40db51"},
+{"key": "push_agent","name": "🍭吾爱推送（阿里）","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "ad3c78559a494bde814f1a6c8c40db51"},
 {"key":"csp_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://9xi4o.tk/OneClickRun/MaooXP/huya2.json"},
 {"key":"csp_douyu","name":"🐠斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/OneClickRun/MaooXB/斗鱼.json"},
 
 
 
-{"key": "csp_xpath_网络搜集库qiumi","name": "⚽️吾爱陪你看球","type": 3,"api": "csp_XPathFilter","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/407/725-qiumi.js?sign=XwLYE7k4jxwXC9H_ExYyQFEnFYJLoAeC4eL5O7bk_Zw%3D%3A0"},
-
-
-{"key":"9E03","name":"🌏吾爱9E03(抽风中）","type": 3, "api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"    },
-
-
-
-{"key":"csp_biubiu_口袋影院","name":"🥒吾爱口袋(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/792/%E5%8F%A3%E8%A2%8B0724.json?sign=BFM2lUiobPWR1m1YCCaPQF7WjdBNVMLaz0cFyiANoPM%3D%3A0"},
-
+//其他
 
 {"key":"csp_biubiu_厂长资源-蓝光","name":"💎吾爱厂长蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/472/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90-%E8%93%9D%E5%85%89%200713.json?sign=9kx3JMCnSmxhOkPPKo7FfIRZSig-SFvurzyeqwRG_44%3D%3A0"},
 
 
-{"key":"csp_biubiu_剧白白-蓝光","name":"🍭吾爱白白蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/472/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90-%E8%93%9D%E5%85%89%200713.json?sign=9kx3JMCnSmxhOkPPKo7FfIRZSig-SFvurzyeqwRG_44%3D%3A0"},
-
+{"key":"csp_biubiu_剧白白-蓝光","name":"🍭吾爱白白蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/465/%E5%89%A7%E7%99%BD%E7%99%BD0716.json?sign=YdF6oVTxRj6oDIFJ78wu2b0d6394ZZlzGHZQVaoYwuE%3D%3A0"},
 
 {"key":"csp_biubiu_4K电影网","name":"😄4K电影网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/403/4K%E7%94%B5%E5%BD%B1%E7%BD%910718.json?sign=h7WhVqDL31NDi29S2ndpWSU1j-iBAPHvHAqOiL06Yog%3D%3A0"},
 
 
+{"key":"csp_biubiu_完美看看影视","name":"🍉吾爱完美看看(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/502/%E5%AE%8C%E7%BE%8E%E7%9C%8B%E7%9C%8B0716.json?sign=nbJqr2hxt209t7_unz-dZBnTdtPy51BsNu-l2lnAIlw%3D%3A0"},
+
 {"key":"csp_biubiu_在线之家","name":"🏠吾爱在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/486/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B60714.json?sign=lecaDWQeIjl4m2lrSAZQcYVrZXASqVX2BhMXanC7QvI%3D%3A0"},
 
-
-//{"key":"酷猫","name":"🐞吾爱酷猫(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
-
-
-
-//{"key": "AliPS","name": "🐱吾爱盘搜(只支持搜索)","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "ad3c78559a494bde814f1a6c8c40db51"},
-//{"key": "Gitcafe","name": "📜吾爱小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "ad3c78559a494bde814f1a6c8c40db51"},
-//{"key": "push_agent","name": "🍭吾爱推送（阿里）","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "ad3c78559a494bde814f1a6c8c40db51"},
-
-
-{"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_AliPanSou","name":"🐱喵狸盘搜(只用来搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"push_agent","name":"🍭推送（阿里推送/磁力链推送）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
 
 {"key": "厂长影视","name": "⭐️吾爱厂长","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1},
 
@@ -128,11 +116,13 @@
 {"key":"csp_biubiu_LIBVIO","name":"🔷吾爱LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/432/LIBVIO0713.json?sign=jV7Ah-J1_54ZXN4G32RQznBpx4YfHAxugPPQDoPtesc%3D%3A0"},
 
 
+{"key": "csp_xpath_网络搜集库qiumi","name": "⚽️吾爱陪你看球","type": 3,"api": "csp_XPathFilter","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/407/725-qiumi.js?sign=XwLYE7k4jxwXC9H_ExYyQFEnFYJLoAeC4eL5O7bk_Zw%3D%3A0"},
+
+
 
 //{"key":"csp_biubiu_斗鱼","name":"🐬吾爱斗鱼","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/523/%E6%96%97%E9%B1%BC0725.json?sign=9eW2QaaAKqroIbhMCv5IxwkTUlHy39akd-qCQ_vjsPs%3D%3A0"},
 
 //{"key":"csp_xpath_huya","name":"🐯吾爱虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://52bsj.vip:81/api/v3/file/get/582/%E8%99%8E%E7%89%990725.json?sign=0CMolDx9I1dOl-l6vsrhQRxsx4mSWtGHS8W3cCvo8dw%3D%3A0"},
-
 
 {"key":"csp_biubiu_特狗影视","name":"🐶吾爱特狗","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/546/%E7%89%B9%E7%8B%97%E5%BD%B1%E8%A7%860713.json?sign=umDfpbY8P3Q6XCTnvoGgEwumHjhqTadoAyrOQRxJ_CQ%3D%3A0"},
 
@@ -383,8 +373,8 @@
 {"name":"云you解析①","type":1,"url":"https://chaloli.cn/home/api?type=ys&uid=1&key=dfgilnotuyDGHMQW34&url="}
 
 
-],
 
+],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
 {"group":"软解码","options":[
@@ -423,10 +413,11 @@
 ]}
 ],
 
-//"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
-"wallpaper":"http://52bsj.vip:82/late",
+"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 
-"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
+
+
+"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.06313.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com","mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
 }
